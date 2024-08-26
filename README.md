@@ -1,3 +1,5 @@
+![Screenshot (114)](https://github.com/user-attachments/assets/62e7d925-8f81-40e1-9c29-58bb22d2d239)
+
 # **Wanderer Game**
 
 ## *Description*
@@ -41,7 +43,8 @@ Usage
 
 To use the game, run the executable file (CS485Group5Final.exe) from the final directory. Follow any additional instructions provided within the game or associated documentation.
 
-![Screenshot (114)](https://github.com/user-attachments/assets/62e7d925-8f81-40e1-9c29-58bb22d2d239)
+**Gameplay:**
+
 ![Screenshot (94)](https://github.com/user-attachments/assets/fbc7b3bb-3552-4e02-ac68-dbd69d2b950b)
 ![Screenshot (95)](https://github.com/user-attachments/assets/2399ed98-5c00-4691-b9a5-034becf901d4)
 ![Screenshot (96)](https://github.com/user-attachments/assets/5a372f84-97d5-4643-bd11-9e4aac7b062a)
