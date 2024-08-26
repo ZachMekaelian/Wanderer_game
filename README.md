@@ -2,7 +2,9 @@
 
 ## *Description*
 
-This project is a game developed for CS485. It includes essential files and data for running the game, including executable files, libraries, and configuration data. The project appears to involve Unity given the presence of Unity-related files.
+This is a game about a wanderer, who must collect 3 keys and defeat the dragon who has been terrorizing the humble village. 
+
+This is a Unity game and this repository includes essential files and data for running the game, including executable files, libraries, and configuration data.
 
 ## *Installation*
 
